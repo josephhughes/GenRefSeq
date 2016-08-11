@@ -1,0 +1,3 @@
+E-utilities downloaded 18837 sequences 
+The number of sequences to be aligned are:4258
+The number of clusters are:27
