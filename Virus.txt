@@ -1,0 +1,2 @@
+Taxid	Seq	Year_cutoff
+11089	10235	1981 
